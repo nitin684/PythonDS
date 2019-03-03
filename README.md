@@ -13,3 +13,5 @@ git add -A
 
 Git commit:
 git commit -m "Comment"
+
+git push
