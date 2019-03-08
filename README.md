@@ -15,3 +15,7 @@ Git commit:
 git commit -m "Comment"
 
 git push
+
+
+Python Distributions:
+https://www.datacamp.com/community/tutorials/probability-distributions-python
